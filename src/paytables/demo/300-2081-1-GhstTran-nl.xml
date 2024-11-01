@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nl">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transactie-ID"/>
+<phrase key="totalWins" value="Totale winst"/>
+<phrase key="totalWager" value="Totale inzet"/>
+<phrase key="winningNumbers" value="Geluksgetallen"/>
+<phrase key="yourNumbers" value="Uw getallen"/>
+<phrase key="instantWin" value="Directe prijs"/>
+<phrase key="instantDoubler" value="Directe verdubbelaar (2x)"/>
+<phrase key="instantMultiplier" value="Directe vermenigvuldiger (5x)"/>
+<phrase key="youMatched" value="U hebt een combinatie gevonden van"/>
+<phrase key="boardNumbers" value="Getal"/>
+<phrase key="boardValues" value="Prijswaarde"/>
+</translation>

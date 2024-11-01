@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totalgevinst"/>
+<phrase key="totalWager" value="Totalinnsats"/>
+<phrase key="winningNumbers" value="Vinnertall"/>
+<phrase key="yourNumbers" value="Dine tall"/>
+<phrase key="instantWin" value="Umiddelbar gevinst"/>
+<phrase key="instantDoubler" value="Umiddelbar dobling (2x)"/>
+<phrase key="instantMultiplier" value="Umiddelbar multiplikator (5x)"/>
+<phrase key="youMatched" value="Du matchet"/>
+<phrase key="boardNumbers" value="Tall"/>
+<phrase key="boardValues" value="Premieverdi"/>
+</translation>

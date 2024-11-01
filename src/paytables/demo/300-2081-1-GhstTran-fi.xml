@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Järjestelmän tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunnniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="winningNumbers" value="Voittonumerot"/>
+<phrase key="yourNumbers" value="Sinun numerosi"/>
+<phrase key="instantWin" value="Pikavoitto"/>
+<phrase key="instantDoubler" value="Pikatuplaus (2x)"/>
+<phrase key="instantMultiplier" value="Pikakerroin (5x)"/>
+<phrase key="youMatched" value="Osuit oikeaan"/>
+<phrase key="boardNumbers" value="Numero"/>
+<phrase key="boardValues" value="Palkinnon arvo"/>
+</translation>
